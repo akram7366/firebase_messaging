@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809159325657",
+    "project_id": "test-cb044",
+    "storage_bucket": "test-cb044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809159325657:android:865d4c305c0132c6f78bc8",
+        "android_client_info": {
+          "package_name": "com.akram.firebase_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809159325657-m87clomubav0pqpc98r9qmdi1vat4esj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9dvRkg_fjXL6pRYUjsx8Bo44r5h2H95s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809159325657-m87clomubav0pqpc98r9qmdi1vat4esj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
